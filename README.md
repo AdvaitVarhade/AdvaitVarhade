@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=FF3D00,FF9E00,FF0055&height=240&section=header&text=Advait%20Varhade&fontSize=52&fontAlignY=36&desc=Software%20Engineer%20%7C%20High-Performance%20%26%20Distributed%20Systems%20%7C%20AI%20%26%20RAG&descAlignY=62&descAlign=50&animation=twinkling" width="100%" alt="Advait Varhade Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0:FF3D00,50:FF9E00,100:FF0055&height=220&section=header&text=Advait%20Varhade&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20-%20High%20Performance%20Distributed%20Systems%20and%20AI&descAlignY=62&descAlign=50" width="100%" alt="Advait Varhade Header Banner" />
 
   <!-- Animated Typing Subheader -->
   <a href="https://github.com/AdvaitVarhade">
@@ -135,20 +135,19 @@ Developer Profile:
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AdvaitVarhade&show_icons=true&theme=tokyonight&title_color=FF7B00&icon_color=FF9E00&text_color=E0E0E0&bg_color=0D1117&border_color=FF5E00&count_private=true" height="185" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdvaitVarhade&layout=compact&theme=tokyonight&title_color=FF7B00&icon_color=FF9E00&text_color=E0E0E0&bg_color=0D1117&border_color=FF5E00&hide=html,css" height="185" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/AdvaitVarhade">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdvaitVarhade&show_icons=true&theme=tokyonight&title_color=FF7B00&icon_color=FF9E00&text_color=E0E0E0&bg_color=0D1117&border_color=FF5E00&count_private=true" height="180" alt="GitHub Stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AdvaitVarhade">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdvaitVarhade&layout=compact&theme=tokyonight&title_color=FF7B00&icon_color=FF9E00&text_color=E0E0E0&bg_color=0D1117&border_color=FF5E00&hide=html,css" height="180" alt="Top Languages" />
+  </a>
 
-  <br/>
+  <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdvaitVarhade&theme=dark&background=0D1117&border=FF5E00&stroke=FF5E00&ring=FF9E00&fire=FF4500&currStreakNum=FF7B00&sidenums=E0E0E0&sideLabels=FF9E00&dates=A0A0A0" width="90%" alt="GitHub Streak Stats" />
+  <a href="https://github.com/AdvaitVarhade">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdvaitVarhade&theme=dark&background=0D1117&border=FF5E00&stroke=FF5E00&ring=FF9E00&fire=FF4500&currStreakNum=FF7B00&sidenums=E0E0E0&sideLabels=FF9E00&dates=A0A0A0" width="90%" alt="GitHub Streak Stats" />
+  </a>
 
 </div>
 
