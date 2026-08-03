@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0:FF3D00,50:FF9E00,100:FF0055&height=220&section=header&text=Advait%20Varhade&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20-%20High%20Performance%20Distributed%20Systems%20and%20AI&descAlignY=62&descAlign=50" width="100%" alt="Advait Varhade Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0%3AFF3D00%2C50%3AFF9E00%2C100%3AFF0055&height=220&section=header&text=Advait%20Varhade&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20-%20High%20Performance%20Distributed%20Systems%20and%20AI&descAlignY=62&descAlign=50" width="100%" alt="Advait Varhade Header Banner" />
 
   <!-- Animated Typing Subheader -->
   <a href="https://github.com/AdvaitVarhade">
@@ -125,6 +125,8 @@ Developer Profile:
 
 ### 🌐 Open Source & Systems Engineering
 
+* 🐍 **[byteofhoney/StashSnip](https://github.com/byteofhoney/StashSnip)**: Engineered a RESTful API and a MongoDB-backed analytics dashboard with complex aggregations.
+* 🛠️ **[LeyckerS/moondownloader](https://github.com/LeyckerS/moondownloader)**: Refactored exception handling across the codebase and implemented unit tests to resolve silent proxy failures.
 * ⚙️ **[high-performance-core-ringbuffer](https://github.com/AdvaitVarhade/high-performance-core-ringbuffer)**: Lock-free SPMC/MPMC ring buffer implemented in Rust for microsecond IPC.
 * 🌐 **[high-performance-network-ffi](https://github.com/AdvaitVarhade/high-performance-network-ffi)**: FFI bindings bridging C++ kernel-bypass sockets into high-level runtimes.
 * 🧠 **[BloomFLv2](https://github.com/AdvaitVarhade/BloomFLv2)**: Decentralized federated learning simulation using PyTorch with Next.js edge monitoring.
@@ -136,11 +138,11 @@ Developer Profile:
 <div align="center">
 
   <a href="https://github.com/AdvaitVarhade">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdvaitVarhade&show_icons=true&theme=tokyonight&title_color=FF7B00&icon_color=FF9E00&text_color=E0E0E0&bg_color=0D1117&border_color=FF5E00&count_private=true" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AdvaitVarhade&show_icons=true&theme=tokyonight&title_color=FF7B00&icon_color=FF9E00&text_color=E0E0E0&bg_color=0D1117&border_color=FF5E00&count_private=true" height="180" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/AdvaitVarhade">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdvaitVarhade&layout=compact&theme=tokyonight&title_color=FF7B00&icon_color=FF9E00&text_color=E0E0E0&bg_color=0D1117&border_color=FF5E00&hide=html,css" height="180" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdvaitVarhade&layout=compact&theme=tokyonight&title_color=FF7B00&icon_color=FF9E00&text_color=E0E0E0&bg_color=0D1117&border_color=FF5E00&hide=html,css" height="180" alt="Top Languages" />
   </a>
 
   <br/><br/>
