@@ -1,26 +1,26 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0%3AFF3D00%2C50%3AFF9E00%2C100%3AFF0055&height=220&section=header&text=Advait%20Varhade&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20High-Performance%20Distributed%20Systems%20%26%20AI&descAlignY=62&descAlign=50" width="100%" alt="Advait Varhade" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0%3AFF3D00%2C50%3AFF9E00%2C100%3AFF0055&height=220&section=header&text=Advait%20Varhade&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20-%20High%20Performance%20Distributed%20Systems%20and%20AI&descAlignY=62&descAlign=50" width="100%" alt="Advait Varhade Header Banner" />
 
-  <!-- Dynamic Typing Subheader -->
+  <!-- Animated Typing Subheader -->
   <a href="https://github.com/AdvaitVarhade">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=FF7B00&center=true&vCenter=true&width=650&lines=Computer+Science+Undergrad+%40+VIT+Chennai;High-Performance+%26+Distributed+Systems;Enterprise+Hybrid+RAG+%26+SRE+Observability;Lock-Free+C%2B%2B%2FRust+Engine+Architect;Oracle+Cloud+OCI+GenAI+Certified;Active+Open+Source+Contributor+(15%2B+PRs+Merged)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=FF7B00&center=true&vCenter=true&width=650&lines=Computer+Science+Undergrad+%40+VIT+Chennai;High-Performance+%26+Distributed+Systems;Enterprise+Hybrid+RAG+%26+SRE+Observability;Lock-Free+C%2B%2B%2FRust+Engine+Architect;Oracle+Cloud+OCI+GenAI+Certified" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Verified Credentials & Badges -->
+  <!-- Badges Grid / Social Links -->
   <a href="https://linkedin.com/in/advaitvarhade">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:varhadeadvait@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/AdvaitVarhade">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=AdvaitVarhade&color=ff5e00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AdvaitVarhade&color=ff5e00&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Counter" />
 
 </div>
 
@@ -34,33 +34,33 @@ Developer Profile:
   Education: B.Tech in Computer Science & Engineering (2023 - 2027) @ VIT Chennai
   CGPA: 8.61 / 10.0
   Certification: Oracle Cloud Infrastructure Generative AI Professional (OCI)
-  Specializations: Distributed Systems, High-Throughput Engines, Hybrid RAG, Low-Latency Networking
-  Core Languages: C++, Rust, Python, Java, TypeScript, Go, SQL
+  Core Focus: Distributed Systems, High-Throughput Engines, Hybrid RAG Platforms, Full-Stack Architecture
+  Primary Languages: C++, Rust, Python, Java, TypeScript, SQL
 ```
 
-- **Distributed Systems & Performance**: Engineered lock-free distributed streaming engines processing **21M+ msg/sec** in C++/Rust with zero-copy FlatBuffers serialization and kernel-bypass TCP ingestion.
-- **Enterprise GenAI & RAG Architecture**: Designed enterprise Hybrid RAG platforms combining dense semantic vector search (ChromaDB) and sparse lexical retrieval (BM25) with cross-encoder re-ranking and real-time SRE observability.
-- **Constrained Autonomous AI**: Architected deterministic compound AI agent loops executing automated code modification, typecheck verification, and test gating within strict 4GB VRAM hardware envelopes.
-- **Open Source Systems Contributor**: 15+ pull requests merged across prominent open-source ecosystems covering AST parsing, P2P transport protocols, AST taint analysis, and asynchronous storage engines.
+* **Engineered** lock-free distributed data pipelines processing **21M+ msg/sec** in C++/Rust with zero-copy serialization.
+* **Architected** Enterprise Hybrid RAG systems featuring Dense (ChromaDB) + Sparse (BM25) retrieval, Cross-Encoder re-ranking, and real-time Streamlit SRE Observability dashboards.
+* **Built** autonomous AI agents executing code generation strictly within low-resource (4GB VRAM) constraints.
+* **Passion** for writing clean, low-latency, production-ready software adhering to strict CI/CD and unit testing standards.
 
 ---
 
-### Technical Skills & Architecture
+### Tech Stack & Tooling
 
 <div align="center">
 
-| Domain | Technologies & Infrastructure |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **Frameworks & AI** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| **Databases & Vector** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=flat-square&logo=databricks&logoColor=white) |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openid&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Frameworks** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **Databases & Vector** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=flat-square&logo=databricks&logoColor=white) |
 | **Cloud & DevOps** | ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud_GenAI-F80000?style=flat-square&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
 </div>
 
 ---
 
-### Flagship Systems & Engineering Projects
+### Flagship Projects Showcase
 
 <table width="100%">
   <tr>
@@ -68,12 +68,12 @@ Developer Profile:
       <h3 align="center">Enterprise Hybrid RAG & SRE Suite</h3>
       <p align="center">
         <a href="https://github.com/AdvaitVarhade/enterprise-hybrid-rag-sre-suite">
-          <img src="https://img.shields.io/badge/Repository-enterprise--hybrid--rag--sre--suite-FF5E00?style=for-the-badge&logo=github" alt="RAG SRE Suite" />
+          <img src="https://img.shields.io/badge/Repo-enterprise--hybrid--rag--sre--suite-FF5E00?style=for-the-badge&logo=github" alt="RAG SRE Suite" />
         </a>
       </p>
       <ul>
-        <li><b>Hybrid Dense/Sparse Retrieval:</b> Combines ChromaDB dense vector indexing with BM25 sparse keyword scoring via EnsembleRetriever and Cross-Encoder re-ranking.</li>
-        <li><b>SRE Observability:</b> Production telemetry tracking P50/P95 latency distributions, Ragas evaluation gates (0.85 CI/CD threshold), and structured JSONL traces.</li>
+        <li><b>Hybrid Retrieval:</b> Combines ChromaDB (Dense) + BM25 (Sparse) via EnsembleRetriever & Cross-Encoder re-ranking.</li>
+        <li><b>SRE Observability:</b> Streamlit & Plotly dashboard tracking P50/P95 latencies, Ragas evaluation gates (0.85 CI/CD), and JSONL traces.</li>
         <li><b>Tech Stack:</b> Python, FastAPI, Next.js, ChromaDB, BM25, Streamlit, Plotly.</li>
       </ul>
     </td>
@@ -81,13 +81,13 @@ Developer Profile:
       <h3 align="center">Zephyr Stream Engine</h3>
       <p align="center">
         <a href="https://github.com/AdvaitVarhade/Zephyr-Stream-Engine">
-          <img src="https://img.shields.io/badge/Repository-Zephyr--Stream--Engine-FF7B00?style=for-the-badge&logo=github" alt="Zephyr Stream Engine" />
+          <img src="https://img.shields.io/badge/Repo-Zephyr--Stream--Engine-FF7B00?style=for-the-badge&logo=github" alt="Zephyr Stream Engine" />
         </a>
       </p>
       <ul>
-        <li><b>21M+ msg/sec Throughput:</b> Lock-free distributed CEP/SIEM stream engine engineered in C++ and Rust.</li>
-        <li><b>Low Latency:</b> Zero-copy FlatBuffers serialization with kernel-bypass TCP ingestion and active-passive failover replication.</li>
-        <li><b>Tech Stack:</b> C++, Rust, FlatBuffers, TCP Sockets, Lock-free MPMC Queues, Linux.</li>
+        <li><b>21M+ msg/sec Pipeline:</b> Lock-free distributed CEP/SIEM data engine built in C++/Rust.</li>
+        <li><b>High Performance:</b> Zero-copy FlatBuffers serialization with kernel-bypass TCP ingestion & active-passive failover.</li>
+        <li><b>Tech Stack:</b> C++, Rust, FlatBuffers, TCP, Lock-free queues, Linux.</li>
       </ul>
     </td>
   </tr>
@@ -96,25 +96,25 @@ Developer Profile:
       <h3 align="center">Constrained Compound AI Agent</h3>
       <p align="center">
         <a href="https://github.com/AdvaitVarhade/constrained-compound-ai">
-          <img src="https://img.shields.io/badge/Repository-constrained--compound--ai-FF9E00?style=for-the-badge&logo=github" alt="Constrained Compound AI" />
+          <img src="https://img.shields.io/badge/Repo-constrained--compound--ai-FF9E00?style=for-the-badge&logo=github" alt="Constrained Compound AI" />
         </a>
       </p>
       <ul>
-        <li><b>Deterministic Agentic Loop:</b> Self-correcting autonomous software builder operating strictly within a 4GB VRAM footprint.</li>
-        <li><b>Verification Sandbox:</b> Git-backed execution environment with automated AST typecheck and unit-testing gates.</li>
-        <li><b>Tech Stack:</b> Python, TypeScript, Ollama/LLMs, Git, Pytest.</li>
+        <li><b>Autonomous Loop:</b> Agentic software builder operating strictly within a 4GB VRAM budget.</li>
+        <li><b>Verification Sandbox:</b> Git-backed execution environment with automated unit-testing gates.</li>
+        <li><b>Tech Stack:</b> Python, TypeScript, LLMs, Git, PyTest.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">MedNexus Healthcare Platform</h3>
       <p align="center">
         <a href="https://github.com/AdvaitVarhade/Mednexus">
-          <img src="https://img.shields.io/badge/Repository-MedNexus-FF3D00?style=for-the-badge&logo=github" alt="MedNexus" />
+          <img src="https://img.shields.io/badge/Repo-MedNexus-FF3D00?style=for-the-badge&logo=github" alt="MedNexus" />
         </a>
       </p>
       <ul>
-        <li><b>Secure Coordination:</b> Distributed healthcare platform featuring AES-256-GCM encrypted medical records.</li>
-        <li><b>Graph Access Control:</b> Neo4j graph relationship system paired with Redis token-bucket rate-limiting.</li>
+        <li><b>Secure Coordination:</b> Full-stack platform with AES-256-GCM encrypted health records.</li>
+        <li><b>Graph Access Control:</b> Neo4j graph-based relationship system paired with Redis rate-limiting.</li>
         <li><b>Tech Stack:</b> Java, Node.js, MongoDB, Neo4j, Redis, REST APIs.</li>
       </ul>
     </td>
@@ -123,52 +123,39 @@ Developer Profile:
 
 ---
 
-### Open Source Engineering & Contributions
+### Open Source & Systems Engineering
 
-<div align="center">
-
-| Project | Ecosystem | Key Contribution & Impact | Status |
-| :--- | :--- | :--- | :--- |
-| **[whoosh](https://github.com/priya-sundaram-dev/whoosh)** | Python / Search Indexing | Added full static type hints across `whoosh.formats` (shipped in whoosh3 3.40.0 on PyPI). | 🟢 **Merged** |
-| **[DuckTap](https://github.com/zanni098/DuckTap)** | Python / DuckDB / CLI | Built `list-tables` CLI command, catalog metadata backport, and DuckDB package extra. | 🟢 **Merged** |
-| **[umbra-core](https://github.com/bkd-dotcom/umbra-core)** | Python / Node AST Security | Implemented JS/Node SSRF (CWE-918) AST and taint detection engine rules. | 🟢 **Merged** |
-| **[moondownloader](https://github.com/LeyckerS/moondownloader)** | Python / Playwright | Structured CLI exit codes and narrowed exception handling across 5+ modules. | 🟢 **5 PRs Merged** |
-| **[StashSnip](https://github.com/byteofhoney/StashSnip)** | Python / Flask / MongoDB | Built full-text search indexing, REST API blueprint, and MongoDB aggregation analytics. | 🟢 **2 PRs Merged** |
-| **[kubeintellect](https://github.com/MSKazemi/kubeintellect)** | TypeScript / React | Resolved React lifecycle state management and terminal cleanup in `PtyTerminal`. | 🟢 **Merged** |
-| **[PersonalClaw](https://github.com/PersonalClaw/PersonalClaw)** | TypeScript / Python | Case-insensitive agent resolution (#350) and Triggers empty-state hint branching (#1119). | 🟢 **Active / Merged** |
-| **[cr8](https://github.com/hareeshnagaraj/cr8)** | Python / Trio / libp2p | Standalone P2P transport node with Noise security, allowlisting, and streaming range reads. | 🟡 **Reviewed** |
-| **[project-codeguard](https://github.com/cosai-oasis/project-codeguard)** | AI Security / Rules | Authored formal security rule for AI Agent Skill definitions and registered schemas. | 🟡 **Open** |
-
-</div>
+* **[whoosh](https://github.com/priya-sundaram-dev/whoosh)**: Added static type hints across `whoosh.formats` (shipped in whoosh3 on PyPI).
+* **[DuckTap](https://github.com/zanni098/DuckTap)**: Built `list-tables` CLI command, catalog metadata backport, and DuckDB package extra.
+* **[umbra-core](https://github.com/bkd-dotcom/umbra-core)**: Implemented JS/Node SSRF (CWE-918) AST and taint detection engine rules.
+* **[moondownloader](https://github.com/LeyckerS/moondownloader)**: Refactored exception handling across the codebase and implemented structured CLI exit codes.
+* **[byteofhoney/StashSnip](https://github.com/byteofhoney/StashSnip)**: Engineered a RESTful API blueprint and a MongoDB-backed analytics dashboard with complex aggregations.
+* **[kubeintellect](https://github.com/MSKazemi/kubeintellect)**: Resolved React lifecycle state management and terminal cleanup in `PtyTerminal`.
+* **[PersonalClaw](https://github.com/PersonalClaw/PersonalClaw)**: Enforced case-insensitive agent routing suppression and Triggers empty-state hint branching.
+* **[cr8](https://github.com/hareeshnagaraj/cr8)**: Standalone P2P transport node with Noise security, allowlisting, and streaming range reads.
+* **[project-codeguard](https://github.com/cosai-oasis/project-codeguard)**: Authored formal security rule for AI Agent Skill definitions.
+* **[high-performance-core-ringbuffer](https://github.com/AdvaitVarhade/high-performance-core-ringbuffer)**: Lock-free SPMC/MPMC ring buffer implemented in Rust for microsecond IPC.
+* **[high-performance-network-ffi](https://github.com/AdvaitVarhade/high-performance-network-ffi)**: FFI bindings bridging C++ kernel-bypass sockets into high-level runtimes.
+* **[BloomFLv2](https://github.com/AdvaitVarhade/BloomFLv2)**: Decentralized federated learning simulation using PyTorch with Next.js edge monitoring.
 
 ---
 
-### Open Source Impact & Metrics
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Open_Source_PRs_Merged-15+-brightgreen?style=for-the-badge&logo=git&logoColor=white" alt="PRs Merged" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/OCI_Certified-Generative_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI Certified" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Core_Focus-High_Performance_Systems-FF5E00?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Systems Focus" />
-
-</div>
-
-<br/>
+### GitHub Activity & Analytics
 
 <div align="center">
 
   <a href="https://github.com/AdvaitVarhade">
-    <img src="https://img.shields.io/github/followers/AdvaitVarhade?label=Followers&style=flat-square&color=FF7B00&labelColor=0D1117" alt="Followers" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AdvaitVarhade&show_icons=true&theme=tokyonight&title_color=FF7B00&icon_color=FF9E00&text_color=E0E0E0&bg_color=0D1117&border_color=FF5E00&count_private=true" height="180" alt="GitHub Stats" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/AdvaitVarhade">
-    <img src="https://img.shields.io/github/stars/AdvaitVarhade?label=Stars&style=flat-square&color=FF9E00&labelColor=0D1117" alt="Stars" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdvaitVarhade&layout=compact&theme=tokyonight&title_color=FF7B00&icon_color=FF9E00&text_color=E0E0E0&bg_color=0D1117&border_color=FF5E00&hide=html,css" height="180" alt="Top Languages" />
   </a>
-  &nbsp;
+
+  <br/><br/>
+
   <a href="https://github.com/AdvaitVarhade">
-    <img src="https://img.shields.io/badge/Contributions-Active_OSS-00C853?style=flat-square&labelColor=0D1117" alt="Contributions" />
+    <img src="https://streak-stats.demolab.com/?user=AdvaitVarhade&theme=dark&background=0D1117&border=FF5E00&stroke=FF5E00&ring=FF9E00&fire=FF4500&currStreakNum=FF7B00&sidenums=E0E0E0&sideLabels=FF9E00&dates=A0A0A0" width="90%" alt="GitHub Streak Stats" />
   </a>
 
 </div>
